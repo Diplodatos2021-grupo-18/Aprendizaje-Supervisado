@@ -2,7 +2,8 @@
 
 Entrega de la materia aprendizaje supervisado.
 
-En el archivo data-analysis realizamos un analisis exploratorio del dataset.
+## Analisis Exploratorio:
+En el archivo data-analysis realizamos un analisis exploratorio del dataset, en el cual observamos las variables y sus relaciones.
 
 ## Transformaciones:
 Transformamos las variables numericas 'Age', 'AnnualIncome' en discretas, con KbinsDiscretizer, utilizando 5 categorias y estrategia 'quantile', la cual asigna a cada clase la misma cantidad de puntos.
